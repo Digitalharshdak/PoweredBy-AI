@@ -1,4 +1,4 @@
-import './style.css';
+import './Style.css';
 import Frame1 from "./componets/Frame1";
 import Frame2 from "./componets/Frame2";
 import Frame3 from './componets/Frame3';
